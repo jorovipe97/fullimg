@@ -3,11 +3,6 @@ This is a snnipet for make full responsive background images and parallax effect
 
 ---
 
-# Instruction of use:
-Para que este recurso funcione debes, importar primero el archivo 'fimg.css' y luego el archivo 'fimg.js' si quieres personalizar algunas dimensiones, importar un archivo '.css'.
-
----
-
 # Class
 - .background
 - .not-background
@@ -22,7 +17,7 @@ Para que este recurso funcione debes, importar primero el archivo 'fimg.css' y l
 
 - data-img-width
 - data-img-height
-- diff
+- data-diff
 
 ---
 
