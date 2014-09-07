@@ -19,6 +19,7 @@ function fullscreenFix(){
     });
 }
 $(window).resize(fullscreenFix);
+fullscreenFix();
 
 /* resize background images */
 function backgroundResize(){
@@ -56,6 +57,7 @@ function backgroundResize(){
 }
 $(window).resize(backgroundResize);
 $(window).focus(backgroundResize);
+backgroundResize();
 
 /* set parallax background-position */
 function parallaxPosition(e){
@@ -94,9 +96,4 @@ if(!$("html").hasClass("touch")){
     //$(window).focus(parallaxPosition);
     $(window).scroll(parallaxPosition);
     parallaxPosition();
-}
-
-window.onload = function () {
-    backgroundResize();
-    fullscreenFix();
 }

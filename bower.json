@@ -1,9 +1,9 @@
 {
   "name": "fullimg",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "authors": [
     "Riccardo Caroli",
-    "Jose Romualdo Villalobos Perez <jorovipe@gmail.com>"
+    "Jose R. Villalobos Perez"
   ],
   "description": "A snippet for make full responsive background images and parallax effects",
   "main": "[fullimg.css, fullimg.js]",
