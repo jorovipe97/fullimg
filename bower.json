@@ -1,0 +1,29 @@
+{
+  "name": "fullimg",
+  "version": "0.1.0",
+  "authors": [
+    "Riccardo Caroli",
+    "Jose Romualdo Villalobos Perez <jorovipe@gmail.com>"
+  ],
+  "description": "A snippet for make full responsive background images and parallax effects",
+  "main": "[fullimg.css, fullimg.js]",
+  "keywords": [
+    "GUI",
+    "parallax",
+    "responsive",
+    "images",
+    "background",
+    "images",
+    "beautiful",
+    "snippet"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jorovipe97/fullimg",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

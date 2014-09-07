@@ -3,6 +3,11 @@ This is a snnipet for make full responsive background images and parallax effect
 
 ---
 
+# Dependecies
+- jQuery
+
+---
+
 # Class
 - .background
 - .not-background
